@@ -1,0 +1,13 @@
+name: following.space
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/dcd84b38-3aa8-41d3-afa3-24588d49adf7
+description: create and explore follow packs for nostr
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
